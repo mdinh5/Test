@@ -6,10 +6,10 @@ interesting news articles, or even if the weather is just not for you. You as a 
 and it well be saved to your profile so you can take a look at you city at another time with real live updates!
 
 ## Contributors
-Ahmed Mustafa
-Michael Dinh
-Joan Galicia
-Mehmet Filik
+Ahmed Mustafa<br>
+Michael Dinh<br>
+Joan Galicia<br>
+Mehmet Filik<br>
 
 ## Installation
 
