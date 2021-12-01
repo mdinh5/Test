@@ -93,7 +93,7 @@ What Did Go Well:
     </li>
 </ol>
 
-## Heroku
+## APIs
 API Used:
 <ol>
     <li>
