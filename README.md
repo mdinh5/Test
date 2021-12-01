@@ -61,6 +61,16 @@ export UNSPLASH_ACCESS_KEY='YourAccessKeyHere'
 export UNSPLASH_SECRET_KEY='YourSecretKeyHere'
 ```
 
+After you run that you need to install npm to start a build for that enter this command
+```bash
+npm install -d npm
+```
+
+then you would want to go to the folder and enter this command to build it 
+```bash
+npm run build
+```
+
 Now you should be good to go to run app.py! ENJOY!
 
 
