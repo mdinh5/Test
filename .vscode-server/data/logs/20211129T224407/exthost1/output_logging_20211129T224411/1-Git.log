@@ -1,0 +1,98 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/Mdinh5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/tripmap refs/remotes/tripmap
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :README.md
+> git ls-files --stage -- /home/Mdinh5/README.md
+> git status -z -u
+> git ls-files --stage -- /home/Mdinh5/README.md
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/tripmap refs/remotes/tripmap
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git show --textconv :README.md
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/Mdinh5/README.md
+> git cat-file -s d85021cae6f68a35377ca0f70304450f48b9494b
+> git show --textconv :README.md
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/tripmap refs/remotes/tripmap
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :.gitignore
+> git ls-files --stage -- /home/Mdinh5/.gitignore
+> git cat-file -s 16d295e0daf17803b1f3839d6b252ebd1bfe4489
+> git show --textconv :README.md
+> git ls-files --stage -- /home/Mdinh5/README.md
+> git cat-file -s d85021cae6f68a35377ca0f70304450f48b9494b
+> git status -z -u
+> git ls-files --stage -- /home/Mdinh5/README.md
+> git cat-file -s d85021cae6f68a35377ca0f70304450f48b9494b
+> git show --textconv :README.md
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/tripmap refs/remotes/tripmap
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/Mdinh5/README.md
+> git cat-file -s d85021cae6f68a35377ca0f70304450f48b9494b
+> git show --textconv :README.md
+> git ls-files --stage -- /home/Mdinh5/README.md
+> git cat-file -s d85021cae6f68a35377ca0f70304450f48b9494b
+> git show --textconv :README.md
+> git ls-files --stage -- /home/Mdinh5/README.md
+> git cat-file -s d85021cae6f68a35377ca0f70304450f48b9494b
+> git show --textconv :README.md
+> git ls-files --stage -- /home/Mdinh5/README.md
+> git cat-file -s d85021cae6f68a35377ca0f70304450f48b9494b
+> git show --textconv :README.md
+> git check-ignore -v -z --stdin
+> git show --textconv :.bash_history
+> git ls-files --stage -- /home/Mdinh5/.bash_history
+> git show --textconv :.bash_logout
+> git ls-files --stage -- /home/Mdinh5/.bash_logout
+> git show --textconv :README.md
+> git ls-files --stage -- /home/Mdinh5/README.md
+> git cat-file -s d85021cae6f68a35377ca0f70304450f48b9494b
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/Mdinh5/README.md
+> git ls-files --stage -- /home/Mdinh5/README.md
+> git cat-file -s d85021cae6f68a35377ca0f70304450f48b9494b
+> git show --textconv :README.md
+> git ls-files --stage -- /home/Mdinh5/README.md
+> git cat-file -s d85021cae6f68a35377ca0f70304450f48b9494b
+> git show --textconv :README.md
+> git ls-files --stage -- /home/Mdinh5/README.md
+> git cat-file -s d85021cae6f68a35377ca0f70304450f48b9494b
+> git show --textconv :README.md
+> git ls-files --stage -- /home/Mdinh5/README.md
+> git cat-file -s d85021cae6f68a35377ca0f70304450f48b9494b
+> git show --textconv :README.md
+> git check-ignore -v -z --stdin
+> git show --textconv :GroupPro/swe-project2/templates/Static_City.html
+> git ls-files --stage -- /home/Mdinh5/GroupPro/swe-project2/templates/Static_City.html
+> git check-ignore -v -z --stdin
+> git show --textconv :README.md
+> git ls-files --stage -- /home/Mdinh5/README.md
+> git cat-file -s d85021cae6f68a35377ca0f70304450f48b9494b
+> git ls-files --stage -- /home/Mdinh5/README.md
+> git cat-file -s fe2dd5fb65d609717dff7c7c08a15c9f4a392acb
+> git show --textconv :README.md
+> git ls-files --stage -- /home/Mdinh5/README.md
+> git cat-file -s fe2dd5fb65d609717dff7c7c08a15c9f4a392acb
+> git show --textconv :README.md
+> git ls-files --stage -- /home/Mdinh5/README.md
+> git cat-file -s 774fdee743e14f7a922bee7309e4cbf8237d4024
+> git show --textconv :README.md
+> git ls-files --stage -- /home/Mdinh5/README.md
+> git cat-file -s 774fdee743e14f7a922bee7309e4cbf8237d4024
+> git show --textconv :README.md

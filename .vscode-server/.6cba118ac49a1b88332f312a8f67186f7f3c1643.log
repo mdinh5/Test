@@ -1,0 +1,36 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 36127
+
+[22:43:35] Extension host agent started.
+[22:43:35] Deleted from disk dart-code.flutter /home/Mdinh5/.vscode-server/extensions/dart-code.flutter-3.27.0
+[22:43:35] Deleted from disk dart-code.dart-code /home/Mdinh5/.vscode-server/extensions/dart-code.dart-code-3.27.2
+[22:43:35] [127.0.0.1][6c0dfcab][ManagementConnection] New connection established.
+[22:43:35] [127.0.0.1][9462d7e5][ExtensionHostConnection] New connection established.
+[22:43:35] [127.0.0.1][9462d7e5][ExtensionHostConnection] <238889> Launched Extension Host Process.
+[22:43:38] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[22:43:39] Installing extension: ms-python.python
+[22:43:39] Installing extension: ms-python.vscode-pylance
+[22:43:41] Downloaded extension: ms-python.python /home/Mdinh5/.vscode-server/data/CachedExtensionVSIXs/ms-python.python-2021.11.1422169775
+[22:43:41] Downloaded extension: ms-python.vscode-pylance /home/Mdinh5/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.11.0
+[22:43:44] Extracted extension to /home/Mdinh5/.vscode-server/extensions/.82f00ddf-3cb8-4e4f-9c4d-6bfe3de92978: ms-python.python
+[22:43:44] Renamed to /home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775
+[22:43:44] Extracting completed. ms-python.python
+[22:43:44] Extension installed successfully: ms-python.python
+[22:43:45] Extracted extension to /home/Mdinh5/.vscode-server/extensions/.7f64c060-eb54-471b-b2e6-27b222de6f2d: ms-python.vscode-pylance
+[22:43:45] Renamed to /home/Mdinh5/.vscode-server/extensions/ms-python.vscode-pylance-2021.11.0
+[22:43:45] Extracting completed. ms-python.vscode-pylance
+[22:43:45] Extension installed successfully: ms-python.vscode-pylance
+[22:44:23] [127.0.0.1][6c0dfcab][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[22:44:24] [127.0.0.1][9462d7e5][ExtensionHostConnection] <238889> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[22:44:24] Last EH closed, waiting before shutting down
+Last EH closed, shutting down
+[22:49:24] Last EH closed, shutting down

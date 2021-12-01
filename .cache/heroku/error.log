@@ -1,0 +1,50 @@
+2021/09/27 17:21:34 Error: Unknown database: d. Valid options are: DATABASE_URL
+    at attachment (/snap/heroku/4076/node_modules/@heroku-cli/plugin-pg-v5/lib/fetcher.js:67:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Object.database (/snap/heroku/4076/node_modules/@heroku-cli/plugin-pg-v5/lib/fetcher.js:91:20)
+    at async run (/snap/heroku/4076/node_modules/@heroku-cli/plugin-pg-v5/commands/psql.js:14:10)
+    at async V5._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:20)
+    at async Config.runCommand (/snap/heroku/4076/node_modules/@oclif/command/node_modules/@oclif/config/lib/config.js:173:24)
+    at async Main.run (/snap/heroku/4076/node_modules/@oclif/command/lib/main.js:21:9)
+    at async Main._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:20)
+2021-10-13T07:43:02.449Z Warning: lgin is not a heroku command.
+2021-10-13T07:43:02.449Z     at Object.warn (/snap/heroku/4076/node_modules/@oclif/command/node_modules/@oclif/errors/lib/index.js:49:15)
+2021-10-13T07:43:02.449Z     at Object.warn (/snap/heroku/4076/node_modules/@oclif/command/node_modules/@oclif/config/lib/config.js:136:30)
+2021-10-13T07:43:02.449Z     at Object.hook (/snap/heroku/4076/node_modules/@oclif/plugin-not-found/lib/index.js:25:10)
+2021-10-13T07:43:02.449Z     at async /snap/heroku/4076/node_modules/@oclif/command/node_modules/@oclif/config/lib/config.js:151:21
+2021-10-13T07:43:02.449Z     at async Promise.all (index 0)
+2021-10-13T07:43:02.449Z     at async Promise.all (index 30)
+2021-10-13T07:43:02.449Z     at async Config.runHook (/snap/heroku/4076/node_modules/@oclif/command/node_modules/@oclif/config/lib/config.js:161:9)
+2021-10-13T07:43:02.449Z     at async Config.runCommand (/snap/heroku/4076/node_modules/@oclif/command/node_modules/@oclif/config/lib/config.js:168:13)
+2021-10-13T07:43:02.449Z     at async Main.run (/snap/heroku/4076/node_modules/@oclif/command/lib/main.js:21:9)
+2021-10-13T07:43:02.449Z     at async Main._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:20)
+2021/10/13 07:51:12 Error: Expected response to be successful, got 404
+    at Request.handleFailure [as _handleFailure] (/snap/heroku/4076/node_modules/heroku-client/lib/request.js:255:11)
+    at Request.<anonymous> (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:56:12)
+    at /snap/heroku/4076/node_modules/heroku-client/lib/request.js:148:16
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/10/13 07:51:12 {"resource":"app","id":"not_found","message":"Couldn't find that app."}
+2021/10/13 07:51:45 Error: Expected response to be successful, got 404
+    at Request.handleFailure [as _handleFailure] (/snap/heroku/4076/node_modules/heroku-client/lib/request.js:255:11)
+    at Request.<anonymous> (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:56:12)
+    at /snap/heroku/4076/node_modules/heroku-client/lib/request.js:148:16
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/10/13 07:51:45 {"resource":"app","id":"not_found","message":"Couldn't find that app."}
+2021/10/13 07:53:01 Error: Expected response to be successful, got 404
+    at Request.handleFailure [as _handleFailure] (/snap/heroku/4076/node_modules/heroku-client/lib/request.js:255:11)
+    at Request.<anonymous> (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:56:12)
+    at /snap/heroku/4076/node_modules/heroku-client/lib/request.js:148:16
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/10/13 07:53:01 {"resource":"app","id":"not_found","message":"Couldn't find that app."}
+2021/10/13 07:55:15 Error: Expected response to be successful, got 404
+    at Request.handleFailure [as _handleFailure] (/snap/heroku/4076/node_modules/heroku-client/lib/request.js:255:11)
+    at Request.<anonymous> (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:56:12)
+    at /snap/heroku/4076/node_modules/heroku-client/lib/request.js:148:16
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/10/13 07:55:15 {"resource":"app","id":"not_found","message":"Couldn't find that app."}
+2021/10/13 09:38:32 Error: Expected response to be successful, got 422
+    at Request.handleFailure [as _handleFailure] (/snap/heroku/4076/node_modules/heroku-client/lib/request.js:255:11)
+    at Request.<anonymous> (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:56:12)
+    at /snap/heroku/4076/node_modules/heroku-client/lib/request.js:148:16
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/10/13 09:38:32 {"id":"invalid_params","message":"You've reached the app limit of 5 apps for unverified accounts. Delete some apps or add a credit card to verify your account."}

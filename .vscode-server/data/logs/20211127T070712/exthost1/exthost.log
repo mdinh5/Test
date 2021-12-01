@@ -1,0 +1,255 @@
+[2021-11-27 07:07:15.583] [exthost] [info] Extension host with pid 65687 started
+[2021-11-27 07:07:15.600] [exthost] [info] Lock '/home/Mdinh5/.vscode-server/data/User/workspaceStorage/e4fa6b216f3021d2c5520ad339417fc5/vscode.lock': Lock acquired.
+[2021-11-27 07:07:15.697] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.vscode-pylance
+[2021-11-27 07:07:15.969] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2021-11-27 07:07:16.513] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-27 07:07:16.517] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-27 07:07:17.199] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-27 07:07:17.909] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2021-11-27 07:07:18.141] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.141] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.141] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.141] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.142] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.142] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.142] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.142] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.142] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.142] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.142] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.142] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.142] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.142] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.142] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.142] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.142] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.142] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.142] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.142] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.142] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.142] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.142] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.142] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.142] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.142] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.142] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.142] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.142] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.142] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.142] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.142] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.142] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.142] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.142] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.142] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.142] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2021-11-27 07:07:18.579] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.126] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/package-lock.json' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:19.130] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-27 07:07:19.136] [exthost] [info] Eager extensions activated
+[2021-11-27 07:07:25.373] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-27 07:07:25.374] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:115854
+	at async s.provideDocumentSymbols (/home/Mdinh5/.vscode-server/bin/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/server/remoteExtensionHostProcess.js:94:167312)
+[2021-11-27 07:07:25.379] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-27 07:07:25.379] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:118727
+	at async T.provideCodeActions (/home/Mdinh5/.vscode-server/bin/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/server/remoteExtensionHostProcess.js:94:172824)
+[2021-11-27 07:07:25.399] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-27 07:07:25.399] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:335369
+	at runNextTicks (internal/process/task_queues.js:58:5)
+	at processImmediate (internal/timers.js:434:9)
+	at async U.provideDocumentRangeSemanticTokens (/home/Mdinh5/.vscode-server/bin/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/server/remoteExtensionHostProcess.js:94:180425)
+[2021-11-27 07:07:25.410] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-27 07:07:25.410] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:110020
+	at async x.provideCompletionItems (/home/Mdinh5/.vscode-server/bin/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/server/remoteExtensionHostProcess.js:94:181124)
+[2021-11-27 07:07:25.426] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-27 07:07:25.426] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:110020
+	at async x.provideCompletionItems (/home/Mdinh5/.vscode-server/bin/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/server/remoteExtensionHostProcess.js:94:181124)
+[2021-11-27 07:07:26.425] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-27 07:07:26.425] [exthost] [error] TypeError: Cannot read property 'length' of undefined
+	at /home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:353150
+	at h (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:358146)
+	at async x.provideCompletionItems (/home/Mdinh5/.vscode-server/bin/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/server/remoteExtensionHostProcess.js:94:181124)
+[2021-11-27 07:07:27.604] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-27 07:07:27.605] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:335369
+	at async U.provideDocumentRangeSemanticTokens (/home/Mdinh5/.vscode-server/bin/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/server/remoteExtensionHostProcess.js:94:180425)
+[2021-11-27 07:07:27.608] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-27 07:07:27.608] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:118727
+	at async T.provideCodeActions (/home/Mdinh5/.vscode-server/bin/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/server/remoteExtensionHostProcess.js:94:172824)
+[2021-11-27 07:07:27.618] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-27 07:07:27.618] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:335369
+	at async U.provideDocumentRangeSemanticTokens (/home/Mdinh5/.vscode-server/bin/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/server/remoteExtensionHostProcess.js:94:180425)
+[2021-11-27 07:07:27.624] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-27 07:07:27.624] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:335369
+	at async U.provideDocumentRangeSemanticTokens (/home/Mdinh5/.vscode-server/bin/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/server/remoteExtensionHostProcess.js:94:180425)
+[2021-11-27 07:07:27.625] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-27 07:07:27.625] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:118727
+	at async T.provideCodeActions (/home/Mdinh5/.vscode-server/bin/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/server/remoteExtensionHostProcess.js:94:172824)
+[2021-11-27 07:07:27.635] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-27 07:07:27.635] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:335369
+	at async U.provideDocumentRangeSemanticTokens (/home/Mdinh5/.vscode-server/bin/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/server/remoteExtensionHostProcess.js:94:180425)
+[2021-11-27 07:07:27.641] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-27 07:07:27.641] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:335369
+	at async U.provideDocumentRangeSemanticTokens (/home/Mdinh5/.vscode-server/bin/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/server/remoteExtensionHostProcess.js:94:180425)
+[2021-11-27 07:07:27.642] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-27 07:07:27.642] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:118727
+	at async T.provideCodeActions (/home/Mdinh5/.vscode-server/bin/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/server/remoteExtensionHostProcess.js:94:172824)
+[2021-11-27 07:07:28.055] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-27 07:07:28.055] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:118727
+	at async T.provideCodeActions (/home/Mdinh5/.vscode-server/bin/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/server/remoteExtensionHostProcess.js:94:172824)
+[2021-11-27 07:07:37.546] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage:html'
+[2021-11-27 07:07:37.565] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2021-11-27 07:07:38.614] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/templates/login.html' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:42.301] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2021-11-27 07:07:43.526] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/src/font' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:43.526] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/src/font' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:43.527] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/src/font' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:43.527] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/src/font' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:43.527] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/src/font' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:43.527] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/src/font' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:43.527] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/src/font' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:07:43.527] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/GroupPro/swe-project2/src/font' is in submodule 'GroupPro/swe-project2'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:15:20.509] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-27 07:15:20.510] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:115854
+	at async s.provideDocumentSymbols (/home/Mdinh5/.vscode-server/bin/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/server/remoteExtensionHostProcess.js:94:167312)
+[2021-11-27 07:19:13.234] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2021-11-27 07:19:39.097] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-27 07:19:39.097] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:115854
+	at async s.provideDocumentSymbols (/home/Mdinh5/.vscode-server/bin/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/server/remoteExtensionHostProcess.js:94:167312)
+[2021-11-27 07:50:07.634] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-11-27 07:50:07.634] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-11-27 07:58:45.981] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/Test/lect10-demo/templates' is in submodule 'Test/lect10-demo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:58:45.981] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/Test/lect10-demo/templates' is in submodule 'Test/lect10-demo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:58:45.981] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/Test/lect10-demo/templates' is in submodule 'Test/lect10-demo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:58:45.981] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/Test/lect10-demo/templates' is in submodule 'Test/lect10-demo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:58:45.981] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/Test/lect10-demo/templates' is in submodule 'Test/lect10-demo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 07:58:50.460] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/Mdinh5/Test/lect10-demo/test.py' is in submodule 'Test/lect10-demo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-11-27 08:01:37.216] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-27 08:01:37.217] [exthost] [error] TypeError: Cannot read property 'length' of undefined
+	at /home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:353150
+	at h (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:358146)
+	at async x.provideCompletionItems (/home/Mdinh5/.vscode-server/bin/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/server/remoteExtensionHostProcess.js:94:181124)
+[2021-11-27 08:01:38.442] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-27 08:01:38.442] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/Mdinh5/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:118727
+	at async T.provideCodeActions (/home/Mdinh5/.vscode-server/bin/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/server/remoteExtensionHostProcess.js:94:172824)
+[2021-11-27 08:02:05.586] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-11-27 08:02:05.586] [exthost] [info] Lock '/home/Mdinh5/.vscode-server/data/User/workspaceStorage/e4fa6b216f3021d2c5520ad339417fc5/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-11-27 08:02:06.638] [exthost] [info] Extension host with pid 65687 exiting with code 0

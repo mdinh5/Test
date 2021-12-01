@@ -1,0 +1,114 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 39473
+
+[01:36:23] Extension host agent started.
+[01:36:23] ptyHost was unable to resolve shell environment Error: Unable to resolve your shell environment: Unexpected exit code from spawned shell (code 9, signal null)
+    at /home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:85:55598
+    at async /home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:77:21932
+[01:36:23] Deleted from disk ms-toolsai.jupyter /home/Mdinh5/.vscode-server/extensions/ms-toolsai.jupyter-2021.10.1001414422
+[01:36:24] [127.0.0.1][502e2642][ManagementConnection] New connection established.
+[01:36:24] [127.0.0.1][7f94edd9][ExtensionHostConnection] New connection established.
+[01:36:24] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment: Unexpected exit code from spawned shell (code 9, signal null)
+    at /home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:85:55598
+    at async /home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:77:21932
+[01:36:24] [127.0.0.1][7f94edd9][ExtensionHostConnection] <50234> Launched Extension Host Process.
+[01:36:26] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment: Unexpected exit code from spawned shell (code 9, signal null)
+    at /home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:85:55598
+    at async /home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:77:21932
+[01:36:26] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment: Unexpected exit code from spawned shell (code 9, signal null)
+    at /home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:85:55598
+    at async /home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:77:21932
+[01:36:27] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment: Unexpected exit code from spawned shell (code 9, signal null)
+    at /home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:85:55598
+    at async /home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:77:21932
+[01:36:28] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment: Unexpected exit code from spawned shell (code 9, signal null)
+    at /home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:85:55598
+    at async /home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:77:21932
+[01:36:29] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment: Unexpected exit code from spawned shell (code 9, signal null)
+    at /home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:85:55598
+    at async /home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:77:21932
+[01:36:37] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[01:37:31] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment: Unexpected exit code from spawned shell (code 9, signal null)
+    at /home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:85:55598
+    at async /home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:77:21932
+[02:00:41] No ptyHost heartbeat after 6 seconds
+[02:00:41] [127.0.0.1][7f94edd9][ExtensionHostConnection] <50234> Extension Host Process exited with code: null, signal: SIGKILL.
+Last EH closed, waiting before shutting down
+[02:00:41] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[02:00:43] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[02:00:43] Cancelling previous shutdown timeout
+[02:00:43] [127.0.0.1][502e2642][ManagementConnection] The client has reconnected.
+[02:00:43] [127.0.0.1][7f94edd9][ExtensionHostConnection] Unknown reconnection token (seen before).
+[02:00:43] [127.0.0.1][502e2642][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+Error: disposed
+    at f.requestPromise (/home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:81:9494)
+    at Object.call (/home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:81:9331)
+    at Object.call (/home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:80:7515)
+    at Proxy.<anonymous> (/home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:80:8954)
+    at I.watch (/home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:85:69358)
+    at s.doWatch (/home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:88:12393)
+    at s.doWatch (/home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:88:78534)
+    at s.doRefreshRecursiveWatchers (/home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:88:12311)
+    at /home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:88:11797
+    at b.queue (/home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:77:11973)
+    at /home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:77:13464
+    at /home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:77:12926
+Got delay-shutdown request while in shutdown timeout, delaying
+[02:00:48] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[02:00:48] Cancelling previous shutdown timeout
+[02:00:48] [127.0.0.1][92ff4889][ManagementConnection] New connection established.
+[02:00:48] [127.0.0.1][c9be1db0][ExtensionHostConnection] New connection established.
+[02:00:48] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment: Unexpected exit code from spawned shell (code 9, signal null)
+    at /home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:85:55598
+    at async /home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:77:21932
+[02:00:48] [127.0.0.1][c9be1db0][ExtensionHostConnection] <51296> Launched Extension Host Process.
+[02:00:49] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment: Unexpected exit code from spawned shell (code 9, signal null)
+    at /home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:85:55598
+    at async /home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:77:21932
+[02:00:51] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment: Unexpected exit code from spawned shell (code 9, signal null)
+    at /home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:85:55598
+    at async /home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:77:21932
+[02:00:51] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment: Unexpected exit code from spawned shell (code 9, signal null)
+    at /home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:85:55598
+    at async /home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:77:21932
+[02:00:52] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment: Unexpected exit code from spawned shell (code 9, signal null)
+    at /home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:85:55598
+    at async /home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:77:21932
+[IPC Library: Pty Host]  INFO Persistent process "8": Replaying 1415 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "1": Replaying 139 chars and 1 size events
+[02:01:00] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+New EH opened, aborting shutdown
+[02:05:48] New EH opened, aborting shutdown
+[02:32:51] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment: Unexpected exit code from spawned shell (code 9, signal null)
+    at /home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:85:55598
+    at async /home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:77:21932
+[03:17:43] [127.0.0.1][92ff4889][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+Error: disposed
+    at f.requestPromise (/home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:81:9494)
+    at Object.call (/home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:81:9331)
+    at Object.call (/home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:80:7515)
+    at Proxy.<anonymous> (/home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:80:8954)
+    at I.watch (/home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:85:69358)
+    at s.doWatch (/home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:88:12393)
+    at s.doWatch (/home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:88:78534)
+    at s.doRefreshRecursiveWatchers (/home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:88:12311)
+    at /home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:88:11797
+    at b.queue (/home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:77:11973)
+    at /home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:77:13464
+    at /home/Mdinh5/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:77:12926
+[03:17:44] [127.0.0.1][c9be1db0][ExtensionHostConnection] <51296> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[03:17:44] Last EH closed, waiting before shutting down
+Last EH closed, shutting down
+[03:22:44] Last EH closed, shutting down

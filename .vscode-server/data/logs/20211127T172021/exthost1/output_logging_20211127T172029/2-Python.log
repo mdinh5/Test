@@ -1,0 +1,25 @@
+Experiment 'pythonaacf' is active
+Experiment 'pythonTensorboardExperiment' is active
+Experiment 'PythonPyTorchProfiler' is active
+Experiment 'pythonDeprecatePythonPath' is active
+Experiment 'pythonRunFailedTestsButtonDisplayed' is active
+Experiment 'pythonRefreshTestsButtonDisplayed' is active
+Experiment 'pythonRememberDebugConfig' is active
+> conda info --json
+> /bin/python2 ~/.vscode-server/extensions/ms-python.python-2021.11.1422169775/pythonFiles/interpreterInfo.py
+> /bin/python3 ~/.vscode-server/extensions/ms-python.python-2021.11.1422169775/pythonFiles/interpreterInfo.py
+> /usr/bin/python2 ~/.vscode-server/extensions/ms-python.python-2021.11.1422169775/pythonFiles/interpreterInfo.py
+> /usr/bin/python3 ~/.vscode-server/extensions/ms-python.python-2021.11.1422169775/pythonFiles/interpreterInfo.py
+Python interpreter path: /bin/python3
+Starting Pylance language server.
+> conda --version
+> /bin/python3 -m black --diff --quiet ~/GroupPro/swe-project2/app.py.0e6cc961e18ed2c6b5a8453d4b043326.tmp
+cwd: ~/
+> /bin/python3 -m black --diff --quiet ~/GroupPro/swe-project2/app.py.0e6cc961e18ed2c6b5a8453d4b043326.tmp
+cwd: ~/
+> /bin/python3 -m black --diff --quiet ~/GroupPro/swe-project2/py_files/tripmap.py.ce2acd6fcfe10046a71aade0102e63f7.tmp
+cwd: ~/
+> /bin/python3 -m black --diff --quiet ~/GroupPro/swe-project2/py_files/tripmap.py.ce2acd6fcfe10046a71aade0102e63f7.tmp
+cwd: ~/
+Error 2021-11-27 18:42:58: Error while running worker[Worker 2]. undefined
+Error 2021-11-27 18:42:58: Error while running worker[Worker 1]. undefined

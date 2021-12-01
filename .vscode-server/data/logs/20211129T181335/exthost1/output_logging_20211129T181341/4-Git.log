@@ -1,0 +1,50 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/Mdinh5
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/tripmap refs/remotes/tripmap
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :GroupPro/swe-project2/py_files/tripmap.py
+> git ls-files --stage -- /home/Mdinh5/GroupPro/swe-project2/py_files/tripmap.py
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :README.md
+> git ls-files --stage -- /home/Mdinh5/README.md
+> git check-ignore -v -z --stdin
+> git show --textconv :Milestone2/Project1-mdinh5/README.md
+> git ls-files --stage -- /home/Mdinh5/Milestone2/Project1-mdinh5/README.md
+> git show --textconv :README.md
+> git ls-files --stage -- /home/Mdinh5/README.md
+> git check-ignore -v -z --stdin
+> git show --textconv :GroupPro/swe-project2/.env
+> git ls-files --stage -- /home/Mdinh5/GroupPro/swe-project2/.env
+> git show --textconv :README.md
+> git ls-files --stage -- /home/Mdinh5/README.md
+> git show --textconv :GroupPro/swe-project2/.env
+> git ls-files --stage -- /home/Mdinh5/GroupPro/swe-project2/.env
+> git show --textconv :README.md
+> git ls-files --stage -- /home/Mdinh5/README.md
+> git show --textconv :GroupPro/swe-project2/.env
+> git ls-files --stage -- /home/Mdinh5/GroupPro/swe-project2/.env
+> git show --textconv :README.md
+> git ls-files --stage -- /home/Mdinh5/README.md
+> git show --textconv :GroupPro/swe-project2/.env
+> git ls-files --stage -- /home/Mdinh5/GroupPro/swe-project2/.env
+> git show --textconv :README.md
+> git ls-files --stage -- /home/Mdinh5/README.md
+> git show --textconv :GroupPro/swe-project2/.env
+> git ls-files --stage -- /home/Mdinh5/GroupPro/swe-project2/.env
+> git show --textconv :README.md
+> git ls-files --stage -- /home/Mdinh5/README.md
+> git show --textconv :GroupPro/swe-project2/.env
+> git ls-files --stage -- /home/Mdinh5/GroupPro/swe-project2/.env
+> git show --textconv :README.md
+> git ls-files --stage -- /home/Mdinh5/README.md

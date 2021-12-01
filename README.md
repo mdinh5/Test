@@ -68,8 +68,9 @@ Now you should be good to go to run app.py! ENJOY!
 What Didn't Go Well:
 <ol>
     <li>
-        For this project, we as a group didn't run into alot of issues. This only issues we had were minor bugs fixes with our API's because we
-        were new to them.
+        For this project, we as a group didn't run into alot of issues. This only issues we had were minor bugs fixes.
+        Some of the bugs consists of, city names like New York and San Jose were only passing like New and San and the other APIs does not
+        recognize New and San as cities. Another bug was when we were getting images from url links, some of the links do not have image on their database, so we have to check for that and catch it so we could load a default picture.
     </li>
     <li>
         Merging was another minor issue. We only covered it in class but really didn't go in super details. We're glad that we had that lesson in class, but there were issues such as reading merge conflicts that we were not fluent at.
