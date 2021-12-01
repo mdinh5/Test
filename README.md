@@ -93,6 +93,25 @@ What Did Go Well:
     </li>
 </ol>
 
+## Heroku
+API Used:
+<ol>
+    <li>
+        OpenTripMap
+    </li>
+    <li>
+        Google Login
+    </li>
+    <li>
+        New York Times
+    </li>
+    <li>
+        OpenWeather
+    </li>
+    <li>
+        Unsplash
+    </li>
+</ol>
 
 ## Heroku
 We had 2 sprints for our project the first heroku link could be found here
